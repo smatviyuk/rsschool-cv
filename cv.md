@@ -30,10 +30,6 @@ __Russian:__ native <br>
 
 __English:__ Advanced reading, B2 speaking
 
-![EFSET CERTIFICAT.](D:/rsschool/rsschool-cv/certificate_64.png.")
-
-
-
 ## Experience
 
 UX/UI Designer in FLACK (start-up) 2021-2022
